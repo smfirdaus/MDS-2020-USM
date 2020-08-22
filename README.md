@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smfirdaus/MDS-2020-USM/master?urlpath=lab)
 
-# MDS-2020-USM
+# MDS-2020-USM (Improv #1)
 Machine learning experiment utilizing ultrasonic flow meter (USM) diagnostics to classify the USM health state.
 
 
