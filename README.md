@@ -4,7 +4,7 @@
 Machine learning experiment utilizing ultrasonic flow meter (USM) diagnostics to classify the USM health state.
 
 ## Branch Improv#1
-Read this on improvisation plan
+View this branch for improvisation plan
 
 ### Backlink
 ResearchGate: https://www.researchgate.net/project/Performance-Analysis-of-Machine-Learning-Classification-for-Ultrasonic-Flow-Meter
